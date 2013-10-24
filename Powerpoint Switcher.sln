@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWP", "PWP\PWP.csproj", "{28BFF0B9-B816-4EDE-8B68-14F49EF052FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerpoint Switcher", "Powerpoint Switcher\Powerpoint Switcher.csproj", "{DB50301D-415F-45D3-B779-0CB25C56C985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BFF0B9-B816-4EDE-8B68-14F49EF052FA}.Debug|x86.ActiveCfg = Debug|x86
+		{28BFF0B9-B816-4EDE-8B68-14F49EF052FA}.Debug|x86.Build.0 = Debug|x86
+		{28BFF0B9-B816-4EDE-8B68-14F49EF052FA}.Release|x86.ActiveCfg = Release|x86
+		{28BFF0B9-B816-4EDE-8B68-14F49EF052FA}.Release|x86.Build.0 = Release|x86
+		{DB50301D-415F-45D3-B779-0CB25C56C985}.Debug|x86.ActiveCfg = Debug|x86
+		{DB50301D-415F-45D3-B779-0CB25C56C985}.Debug|x86.Build.0 = Debug|x86
+		{DB50301D-415F-45D3-B779-0CB25C56C985}.Release|x86.ActiveCfg = Release|x86
+		{DB50301D-415F-45D3-B779-0CB25C56C985}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
